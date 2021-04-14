@@ -64,7 +64,10 @@ public class Calculator {
 			calculateU2ueberR();
 			calculateUueberR();
 		}
-		
+		else if (strom <= 0 && widerstand <= 0){
+			calculateRmalI2();
+			calculateRmalI();
+		}
 	}
 	
 	/* Hier die Methoden mit den Formlen hinzuf�gen
