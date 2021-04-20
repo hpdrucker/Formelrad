@@ -70,5 +70,9 @@ public class Calculator {
 		double uh2r;
 		uh2r = (Math.pow(getSpannung(), 2)) / getWiderstand();
 	}
+	public void calculateRmalIh2() {
+		double rih2;
+		rih2 = (getWiderstand() * Math.pow(getStrom(), 2));
+	}
 
 }
