@@ -62,8 +62,9 @@ public class Calculator {
 	
 	/* Hier die Methoden mit den Formlen hinzuf�gen
 	 */
-	public void calculatePueberU() {
-		double pu;
-		pu = (getLeistung()/getSpannung());
+	public void calculateUmalI() {
+		double ui;
+		ui = (getSpannung()*getStrom());
 	}
+
 }
