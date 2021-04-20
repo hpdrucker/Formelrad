@@ -17,6 +17,7 @@ public class Calculator {
 		this.spannung = spannung;
 		this.strom = strom;
 		this.widerstand = widerstand;
+		calculate();
 	}
 	
 	public double getLeistung() {
@@ -61,5 +62,8 @@ public class Calculator {
 	
 	/* Hier die Methoden mit den Formlen hinzuf�gen
 	 */
-	
+	public void calculatePueberU() {
+		double pu;
+		pu = (getLeistung()/getSpannung());
+	}
 }
