@@ -66,5 +66,9 @@ public class Calculator {
 		double ui;
 		ui = (getSpannung()*getStrom());
 	}
+	public void calculateUh2ueberR() {
+		double uh2r;
+		uh2r = (Math.pow(getSpannung(), 2)) / getWiderstand();
+	}
 
 }
