@@ -45,27 +45,27 @@ public class Calculator {
 	}
 
 	public void calculate() {
-		if(leistung <= 0&& spannung <= 0){
+		if(leistung > 0&& spannung > 0){
 			calculatePueberU();
 			calculateU2ueberP();
 		}
-		else if (leistung <= 0 && strom <= 0){
+		else if (leistung > 0 && strom > 0){
 			calculatePueberI2();
 			calculatePueberI();
 		}
-		else if (leistung <= 0 && widerstand <= 0){
+		else if (leistung > 0 && widerstand > 0){
 			calculateWurzelPmalR();
 			calculateWurzelPueberR();
 		}
-		else if (spannung <= 0 && strom <= 0){
+		else if (spannung > 0 && strom > 0){
 			calculateUueberI();
 			calculateUmalI();
 		}
-		else if (spannung <= 0 && widerstand <= 0){
+		else if (spannung > 0 && widerstand > 0){
 			calculateU2ueberR();
 			calculateUueberR();
 		}
-		else if (strom <= 0 && widerstand <= 0){
+		else if (strom > 0 && widerstand > 0){
 			calculateRmalI2();
 			calculateRmalI();
 		}
@@ -81,7 +81,6 @@ public class Calculator {
 		this.leistung = (Math.pow(getSpannung(), 2)) / getWiderstand();
 	}
 	public void calculateRmalI2() {
-
 		this.leistung = (getWiderstand() * Math.pow(getStrom(), 2));
 	}
 	//Spannung
