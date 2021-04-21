@@ -53,11 +53,22 @@ public class Calculator {
 			calculatePueberI2();
 			calculatePueberI();
 		}
-		else if (leistung <= 0 && strom <= 0){
+		else if (leistung <= 0 && widerstand <= 0){
 			calculateWurzelPmalR();
 			calculateWurzelPueberR();
 		}
-		
+		else if (spannung <= 0 && strom <= 0){
+			calculateUueberI();
+			calculateUmalI();
+		}
+		else if (spannung <= 0 && widerstand <= 0){
+			calculateU2ueberR();
+			calculateUueberR();
+		}
+		else if (strom <= 0 && widerstand <= 0){
+			calculateRmalI2();
+			calculateRmalI();
+		}
 	}
 	
 	/* Hier die Methoden mit den Formlen hinzuf�gen
