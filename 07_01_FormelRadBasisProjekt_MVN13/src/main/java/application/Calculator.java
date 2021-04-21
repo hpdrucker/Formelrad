@@ -104,7 +104,7 @@ public class Calculator {
 	public void calculateU2ueberP(){
 		this.widerstand = Math.pow(getSpannung(),2)/getLeistung();
 	}
-
+	//Stromstärke
 	public void calculateWurzelPueberR() {
 		this.strom = Math.sqrt(getLeistung()/getWiderstand());
 	}
