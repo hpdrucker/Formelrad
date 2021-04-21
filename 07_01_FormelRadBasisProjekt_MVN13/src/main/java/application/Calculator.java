@@ -86,4 +86,8 @@ public class Calculator {
 	public void calculateRmalI(){
 		this.spannung = getWiderstand()*getStrom();
 	}
+	public void calculatePueberI(){
+		this.spannung = getLeistung()/getStrom();
+	}
+	
 }
