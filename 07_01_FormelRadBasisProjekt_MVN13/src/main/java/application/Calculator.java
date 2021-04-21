@@ -83,11 +83,14 @@ public class Calculator {
 
 		this.leistung = (getWiderstand() * Math.pow(getStrom(), 2));
 	}
+
 	public void calculateRmalI(){
 		this.spannung = getWiderstand()*getStrom();
 	}
 	public void calculatePueberI(){
 		this.spannung = getLeistung()/getStrom();
 	}
-	
+	public void calculateWurzelPmalR(){
+		this.spannung = Math.sqrt(getLeistung()*getWiderstand());
+	}
 }
