@@ -105,6 +105,7 @@ public class Calculator {
 		this.widerstand = Math.pow(getSpannung(),2)/getLeistung();
 	}
 
+	//Stromstärke
 	public void calculateWurzelPueberR() {
 		this.strom = Math.sqrt(getLeistung()/getWiderstand());
 	}
