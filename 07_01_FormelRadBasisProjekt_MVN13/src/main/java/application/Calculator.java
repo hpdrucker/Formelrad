@@ -74,16 +74,14 @@ public class Calculator {
 	/* Hier die Methoden mit den Formlen hinzuf�gen
 	 */
 	public void calculateUmalI() {
-		double ui;
-		ui = (getSpannung()*getStrom());
+		this.leistung = (getSpannung()*getStrom());
 	}
 	public void calculateU2ueberR() {
-		double uh2r;
-		uh2r = (Math.pow(getSpannung(), 2)) / getWiderstand();
+		this.leistung = (Math.pow(getSpannung(), 2)) / getWiderstand();
 	}
 	public void calculateRmalI2() {
-		double rih2;
-		rih2 = (getWiderstand() * Math.pow(getStrom(), 2));
+
+		this.leistung = (getWiderstand() * Math.pow(getStrom(), 2));
 	}
 
 }
