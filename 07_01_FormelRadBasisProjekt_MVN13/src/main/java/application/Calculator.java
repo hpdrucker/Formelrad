@@ -94,4 +94,8 @@ public class Calculator {
 	public void calculateWurzelPmalR(){
 		this.spannung = Math.sqrt(getLeistung()*getWiderstand());
 	}
+	//Widerstand
+	public void calculateUueberI(){
+		this.widerstand = getSpannung()/getStrom();
+	}
 }
