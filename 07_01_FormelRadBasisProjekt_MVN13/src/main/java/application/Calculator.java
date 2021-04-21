@@ -100,5 +100,8 @@ public class Calculator {
 	public void calculatePueberU() {
 		this.strom = getLeistung()/getSpannung();
 	}
+	public void calculateUueberR() {
+		this.strom = getSpannung()/getWiderstand();
+	}
 
 }
