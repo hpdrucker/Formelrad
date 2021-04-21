@@ -98,4 +98,10 @@ public class Calculator {
 	public void calculateUueberI(){
 		this.widerstand = getSpannung()/getStrom();
 	}
+	public void calculatePueberI2(){
+		this.widerstand = getLeistung()/(getStrom()*getStrom());
+	}
+	public void calculateU2ueberP(){
+		this.widerstand = Math.pow(getSpannung(),2)/getLeistung();
+	}
 }
