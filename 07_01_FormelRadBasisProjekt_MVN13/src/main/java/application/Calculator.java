@@ -97,6 +97,8 @@ public class Calculator {
 	public void calculateWurzelPueberR() {
 		this.strom = Math.sqrt(getLeistung()/getWiderstand());
 	}
-	
+	public void calculatePueberU() {
+		this.strom = getLeistung()/getSpannung();
+	}
 
 }
