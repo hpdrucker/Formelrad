@@ -73,6 +73,7 @@ public class Calculator {
 	
 	/* Hier die Methoden mit den Formlen hinzuf�gen
 	 */
+	//Leistung
 	public void calculateUmalI() {
 		this.leistung = (getSpannung()*getStrom());
 	}
@@ -83,7 +84,7 @@ public class Calculator {
 
 		this.leistung = (getWiderstand() * Math.pow(getStrom(), 2));
 	}
-
+	//Spannung
 	public void calculateRmalI(){
 		this.spannung = getWiderstand()*getStrom();
 	}
