@@ -83,5 +83,7 @@ public class Calculator {
 
 		this.leistung = (getWiderstand() * Math.pow(getStrom(), 2));
 	}
-
+	public void calculateRmalI(){
+		this.spannung = getWiderstand()*getStrom();
+	}
 }
