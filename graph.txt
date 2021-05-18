@@ -1,0 +1,196 @@
+* commit df68c812b1edfc4a55d8eed53e80116f06908e23 (origin/featureLoeschen, featureLoeschen)
+| Author: Noobslayer69 <jorin.heer@gmail.com>
+| Date:   Tue May 18 13:59:31 2021 +0200
+| 
+|     featureLoeschen - Neuer Button
+|   
+| * commit 06c0e80c3e2786cec1d80ec392ee1b610a555c1f (tag: v1.0, origin/main, origin/HEAD, main)
+|/  Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+|   Date:   Wed Apr 21 11:16:46 2021 +0200
+|   
+|       misc.xml hinzufügen
+|   
+*   commit d6e0af516f6dcb41734439e8712f45a712641b6b (HEAD -> develop, origin/develop)
+|\  Merge: e3424ca 5f6c310
+| | Author: Noobslayer69 <jorin.heer@gmail.com>
+| | Date:   Wed Apr 21 10:56:34 2021 +0200
+| | 
+| |     Logikfehler in else if korrigiert
+| | 
+| * commit 5f6c3108218fb80ee9e49301ced8ffd7752bf3b1
+| | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | Date:   Wed Apr 21 10:49:16 2021 +0200
+| | 
+| |     add subtitle for strom
+| | 
+* | commit e3424cae8130743ea6914b5c84c95b5ed874de4a
+| | Author: Noobslayer69 <jorin.heer@gmail.com>
+| | Date:   Wed Apr 21 10:54:47 2021 +0200
+| | 
+| |     Logikfehler in else if korrigiert
+| | 
+* | commit 549c2148833aaeb8a4a80531e6cd0e73fb3e0056
+|/  Author: Noobslayer69 <jorin.heer@gmail.com>
+|   Date:   Wed Apr 21 10:49:36 2021 +0200
+|   
+|       kommentiert
+|   
+*   commit b8b020eeb2ed1c85dd39c726ff20677e1f55b690
+|\  Merge: 1ce296b c891585
+| | Author: Noobslayer69 <jorin.heer@gmail.com>
+| | Date:   Wed Apr 21 10:47:13 2021 +0200
+| | 
+| |     Merge branch 'develop' of https://github.com/hpdrucker/Formelrad into develop
+| |   
+| *   commit c891585fc30e7c0fb64e6d26a499b5a8aed8db3c
+| |\  Merge: 6c799e7 cdaebde
+| | | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | | Date:   Wed Apr 21 10:41:18 2021 +0200
+| | | 
+| | |     Merge branch 'develop' of https://github.com/hpdrucker/Formelrad into develop
+| | | 
+| * | commit 6c799e78049c4a45881a9060226b66bdd1cd8960
+| | | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | | Date:   Wed Apr 21 10:40:25 2021 +0200
+| | | 
+| | |     add new method for UueberR
+| | | 
+| * | commit 9bc9ddde136acd545ab9a41833174cf049c0b8d5
+| | | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | | Date:   Wed Apr 21 10:39:19 2021 +0200
+| | | 
+| | |     add new method for PueberU
+| | | 
+| * | commit 53115d600796eef53ccb1c4276dce368c1b346af
+| | | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | | Date:   Wed Apr 21 10:38:33 2021 +0200
+| | | 
+| | |     add new method for sqrt(PueberU)
+| | | 
+* | | commit 1ce296bbb87fbeb6eb600e341714e82d56d03e04 (widerstand)
+| | | Author: Noobslayer69 <jorin.heer@gmail.com>
+| | | Date:   Wed Apr 21 10:43:43 2021 +0200
+| | | 
+| | |     Neue Rechnung hinzufügen(U2ueberP)
+| | | 
+* | | commit 1f75db1d994808b0cba4983e324de001a2434910
+| |/  Author: Noobslayer69 <jorin.heer@gmail.com>
+|/|   Date:   Wed Apr 21 10:39:26 2021 +0200
+| |   
+| |       Neue Rechnung hinzufügen(UueberI)
+| | 
+* | commit cdaebde785b7fb160b825834b25e221251f176bf
+|/  Author: Noobslayer69 <jorin.heer@gmail.com>
+|   Date:   Wed Apr 21 10:35:24 2021 +0200
+|   
+|       Kommentare hinzufügen
+| 
+* commit 93fb427a656f76693959b6cb67be6826a1ae9b9f (Spannung)
+| Author: Noobslayer69 <jorin.heer@gmail.com>
+| Date:   Wed Apr 21 10:22:07 2021 +0200
+| 
+|     Feature fertig gestellt
+| 
+* commit 2dc3f8a03399391edc3d90907cc8bac50cc54beb
+| Author: Noobslayer69 <jorin.heer@gmail.com>
+| Date:   Wed Apr 21 10:17:40 2021 +0200
+| 
+|     neue Funktion Hinzufügen PueberI
+| 
+* commit 88e2edce280966cd5acf224ab61826dc85bfd8dc
+| Author: Noobslayer69 <jorin.heer@gmail.com>
+| Date:   Wed Apr 21 10:11:43 2021 +0200
+| 
+|     RmalI funktion erstellen
+| 
+* commit 0ec1b3b152aac4bf658c33bd8f000008323ad370
+| Author: Noobslayer69 <jorin.heer@gmail.com>
+| Date:   Wed Apr 21 09:59:52 2021 +0200
+| 
+|     code korrigiert
+| 
+* commit b6e756db21e4eed54a3974feeaea3b2b6e053f3f
+| Author: Noobslayer69 <jorin.heer@gmail.com>
+| Date:   Wed Apr 21 09:50:23 2021 +0200
+| 
+|     unötiges h entfernt
+|   
+*   commit 7dcaaccb4adea75a3fb7d6428af96eaa7c5d5183
+|\  Merge: ff74cd8 c36b50a
+| | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | Date:   Wed Apr 21 09:47:16 2021 +0200
+| | 
+| |     Merge branch 'develop' of https://github.com/hpdrucker/Formelrad into develop
+| | 
+| * commit c36b50a15ec03242f2ac5c3a62017b07e1192e62
+| | Author: Noobslayer69 <jorin.heer@gmail.com>
+| | Date:   Wed Apr 14 12:35:00 2021 +0200
+| | 
+| |     unterscheidung für Strom implementieren
+| | 
+| * commit 09cc06630acdb0fde1cc15172d0a2aa044588e6e
+| | Author: Noobslayer69 <jorin.heer@gmail.com>
+| | Date:   Wed Apr 14 12:33:23 2021 +0200
+| | 
+| |     unterscheidung für Spannung implementieren
+| | 
+* | commit ff74cd8640facc6965a4ad1a29b91a9855417969
+| | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | Date:   Tue Apr 20 21:26:13 2021 +0200
+| | 
+| |     Formel fuer R mal I hoch 2 hinzufuegen
+| | 
+* | commit df787880d03b0121875dc972229b232a5a25a22c
+| | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | Date:   Tue Apr 20 21:23:09 2021 +0200
+| | 
+| |     Formel fuer U hoch 2 ueber R hinzufügen
+| | 
+* | commit 4a1820dabc3c1cd564be8be396b94670625eeecb
+| | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | Date:   Tue Apr 20 21:15:34 2021 +0200
+| | 
+| |     removed PueberU gehoert in anderes feature. UmalI funktion hizufügen
+| | 
+* | commit 521ec13d9eff603f50a8f38620c37c21a6dec2a9
+|/  Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+|   Date:   Tue Apr 20 13:14:01 2021 +0200
+|   
+|       PueberU Hinzufügen
+| 
+* commit a0620046ee06fcaee1b4675cdc48c5d87cda0b1d
+| Author: Noobslayer69 <jorin.heer@gmail.com>
+| Date:   Wed Apr 14 11:51:44 2021 +0200
+| 
+|     unterscheidung für Leistung implementieren
+| 
+* commit e6844c22598e31b4ba1366e23ef3329cdee86c0e
+| Author: Noobslayer69 <jorin.heer@gmail.com>
+| Date:   Wed Apr 14 11:42:19 2021 +0200
+| 
+|     unterscheidung für Leistung implementieren
+|   
+*   commit 1058e9973183793d8d6670de0a9729c59dc5312f
+|\  Merge: 8441060 4d38a6b
+| | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | Date:   Wed Apr 7 11:51:19 2021 +0200
+| | 
+| |     Merge https://github.com/hpdrucker/Formelrad
+| | 
+| * commit 4d38a6ba337215745db504a74ff86834fd060e66
+| | Author: Noobslayer69 <jorin.heer@gmail.com>
+| | Date:   Wed Apr 7 11:44:36 2021 +0200
+| | 
+| |     ausprbieren
+| | 
+* | commit 84410601561a21679ac54be38bea80c227354c96
+|/  Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+|   Date:   Wed Apr 7 11:48:46 2021 +0200
+|   
+|       MVN Projekt hinzugefuegt um ein Basis Projekt zu haben
+| 
+* commit 6283050e80af137e88455cc9835f0020d29e4ab9
+  Author: drucker <73308390+hpdrucker@users.noreply.github.com>
+  Date:   Wed Apr 7 11:25:26 2021 +0200
+  
+      Initial commit
