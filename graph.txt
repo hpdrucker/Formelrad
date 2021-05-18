@@ -1,8 +1,21 @@
-* commit df68c812b1edfc4a55d8eed53e80116f06908e23 (origin/featureLoeschen, featureLoeschen)
-| Author: Noobslayer69 <jorin.heer@gmail.com>
-| Date:   Tue May 18 13:59:31 2021 +0200
-| 
-|     featureLoeschen - Neuer Button
+*   commit 4fda75d36588ca071c7ea70aa20a4aee7f0cc7bc (HEAD -> develop, origin/develop)
+|\  Merge: d6e0af5 9599b17
+| | Author: Noobslayer69 <jorin.heer@gmail.com>
+| | Date:   Tue May 18 14:22:07 2021 +0200
+| | 
+| |     Merge branch 'featureLoeschen' into develop
+| | 
+| * commit 9599b17316579db9f3711e31ed2bea19a934e95d (origin/featureLoeschen, featureLoeschen)
+| | Author: Noobslayer69 <jorin.heer@gmail.com>
+| | Date:   Tue May 18 14:18:33 2021 +0200
+| | 
+| |     featureLoeschen - Funktion loeschen erstellt
+| | 
+| * commit df68c812b1edfc4a55d8eed53e80116f06908e23
+|/  Author: Noobslayer69 <jorin.heer@gmail.com>
+|   Date:   Tue May 18 13:59:31 2021 +0200
+|   
+|       featureLoeschen - Neuer Button
 |   
 | * commit 06c0e80c3e2786cec1d80ec392ee1b610a555c1f (tag: v1.0, origin/main, origin/HEAD, main)
 |/  Author: Drucker <nicolas.amberg@lernende.bbw.ch>
@@ -10,7 +23,7 @@
 |   
 |       misc.xml hinzufügen
 |   
-*   commit d6e0af516f6dcb41734439e8712f45a712641b6b (HEAD -> develop, origin/develop)
+*   commit d6e0af516f6dcb41734439e8712f45a712641b6b
 |\  Merge: e3424ca 5f6c310
 | | Author: Noobslayer69 <jorin.heer@gmail.com>
 | | Date:   Wed Apr 21 10:56:34 2021 +0200
