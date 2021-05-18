@@ -76,7 +76,17 @@ public class Main extends Application {
 			btnBerechnen.relocate(100, 445);
 			btnBerechnen.setText("Berechnen");
 			root.getChildren().add(btnBerechnen);
-			
+			Button btnLoeschen = new Button();
+			btnLoeschen.relocate(200, 455);
+			//Merge Conflict please work
+			btnLoeschen.setText("Löschen");
+			root.getChildren().add(btnLoeschen);
+			btnLoeschen.setOnAction(e ->{
+				txLeistung.setText(null);
+				txSpannung.setText(null);
+				txStrom.setText(null);
+				txWiderstand.setText(null);
+			});
 			btnBerechnen.setOnAction(e -> {
 				double power = 0.0;
 				double tension = 0.0;
