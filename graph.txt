@@ -1,9 +1,74 @@
-*   commit 4fda75d36588ca071c7ea70aa20a4aee7f0cc7bc (HEAD -> develop, origin/develop)
-|\  Merge: d6e0af5 9599b17
+*   commit bb34684978c8c3490feb07005b5b6988421ed91c (konfliktZwei)
+|\  Merge: b0deef1 2196fa5
 | | Author: Noobslayer69 <jorin.heer@gmail.com>
-| | Date:   Tue May 18 14:22:07 2021 +0200
+| | Date:   Tue May 18 20:43:43 2021 +0200
 | | 
-| |     Merge branch 'featureLoeschen' into develop
+| |     Zweiter Konflikt muss gelöst werden
+| | 
+| * commit 2196fa5fe02d64e3ef690970197590a386fdd92b (origin/develop)
+| | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | Date:   Tue May 18 20:31:44 2021 +0200
+| | 
+| |     Kommentar muss geupdated werden für Merge Konflikt!
+| |   
+| *   commit 77d4fb4ffde1bc5bb2e099b7a4606a54a8cb77f9
+| |\  Merge: 9a1c22f 57c2d1f
+| | | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | | Date:   Tue May 18 20:23:59 2021 +0200
+| | | 
+| | |     Merge branch 'conffflickt' into develop
+| | | 
+| | * commit 57c2d1f0881f84a66806da25c91bec93778ccd28
+| |/  Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| |   Date:   Tue May 18 20:22:24 2021 +0200
+| |   
+| |       Konflikt muss gemacht werden!
+| |   
+| *   commit 9a1c22f5400483a0aba9215c5c482a3e8052da5e
+| |\  Merge: 06c0e80 4fda75d
+| | | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | | Date:   Tue May 18 20:11:00 2021 +0200
+| | | 
+| | |     Merge branch 'develop' of https://github.com/hpdrucker/Formelrad into develop
+| | | 
+| * | commit 06c0e80c3e2786cec1d80ec392ee1b610a555c1f (tag: v1.0, origin/main, origin/HEAD, main)
+| | | Author: Drucker <nicolas.amberg@lernende.bbw.ch>
+| | | Date:   Wed Apr 21 11:16:46 2021 +0200
+| | | 
+| | |     misc.xml hinzufügen
+| | |     
+| | | *   commit 4294b601da531dade45d40c66b4723455972c431 (HEAD -> develop)
+| | | |\  Merge: e64121b b0deef1
+| |_|_|/  Author: Noobslayer69 <jorin.heer@gmail.com>
+|/| | |   Date:   Tue May 18 20:37:55 2021 +0200
+| | | |   
+| | | |       Merge branch 'konfliktZwei' into develop
+| | | | 
+* | | | commit b0deef1a64ffb64fc9792be1a53ac871e226f339
+| |_|/  Author: Noobslayer69 <jorin.heer@gmail.com>
+|/| |   Date:   Tue May 18 20:31:56 2021 +0200
+| | |   
+| | |       Zweiter Konflikt muss gemacht werden
+| | |   
+* | |   commit e64121b9598d8a8fc0a3485ffe87c8052990cb6c
+|\ \ \  Merge: 4fda75d 2d665a6
+| |_|/  Author: Noobslayer69 <jorin.heer@gmail.com>
+|/| |   Date:   Tue May 18 20:24:03 2021 +0200
+| | |   
+| | |       Merge branch 'konflikt' into develop
+| | | 
+| * | commit 2d665a6e06b5eb963dcc8f29146a8e6033ad3fcc (konflikt)
+|/ /  Author: Noobslayer69 <jorin.heer@gmail.com>
+| |   Date:   Tue May 18 20:22:25 2021 +0200
+| |   
+| |       Konflikt muss gemacht werden
+| |   
+* |   commit 4fda75d36588ca071c7ea70aa20a4aee7f0cc7bc
+|\ \  Merge: d6e0af5 9599b17
+| |/  Author: Noobslayer69 <jorin.heer@gmail.com>
+|/|   Date:   Tue May 18 14:22:07 2021 +0200
+| |   
+| |       Merge branch 'featureLoeschen' into develop
 | | 
 | * commit 9599b17316579db9f3711e31ed2bea19a934e95d (origin/featureLoeschen, featureLoeschen)
 | | Author: Noobslayer69 <jorin.heer@gmail.com>
@@ -16,12 +81,6 @@
 |   Date:   Tue May 18 13:59:31 2021 +0200
 |   
 |       featureLoeschen - Neuer Button
-|   
-| * commit 06c0e80c3e2786cec1d80ec392ee1b610a555c1f (tag: v1.0, origin/main, origin/HEAD, main)
-|/  Author: Drucker <nicolas.amberg@lernende.bbw.ch>
-|   Date:   Wed Apr 21 11:16:46 2021 +0200
-|   
-|       misc.xml hinzufügen
 |   
 *   commit d6e0af516f6dcb41734439e8712f45a712641b6b
 |\  Merge: e3424ca 5f6c310
