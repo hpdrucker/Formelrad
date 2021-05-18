@@ -78,6 +78,7 @@ public class Main extends Application {
 			root.getChildren().add(btnBerechnen);
 			Button btnLoeschen = new Button();
 			btnLoeschen.relocate(200, 455);
+			//Merge Conflict please work
 			btnLoeschen.setText("Löschen");
 			root.getChildren().add(btnLoeschen);
 			btnLoeschen.setOnAction(e ->{
