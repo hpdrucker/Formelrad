@@ -77,7 +77,7 @@ public class Main extends Application {
 			btnBerechnen.setText("Berechnen");
 			root.getChildren().add(btnBerechnen);
 			Button btnLoeschen = new Button();
-			btnLoeschen.relocate(200, 445);
+			btnLoeschen.relocate(200, 450);
 			btnLoeschen.setText("Löschen");
 			root.getChildren().add(btnLoeschen);
 			btnLoeschen.setOnAction(e ->{
