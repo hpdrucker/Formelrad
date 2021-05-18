@@ -80,7 +80,12 @@ public class Main extends Application {
 			btnLoeschen.relocate(200, 445);
 			btnLoeschen.setText("Löschen");
 			root.getChildren().add(btnLoeschen);
-
+			btnLoeschen.setOnAction(e ->{
+				txLeistung.setText(null);
+				txSpannung.setText(null);
+				txStrom.setText(null);
+				txWiderstand.setText(null);
+			});
 			btnBerechnen.setOnAction(e -> {
 				double power = 0.0;
 				double tension = 0.0;
