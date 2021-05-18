@@ -1,3 +1,9 @@
 # Formelrad
-Basic Formelrad Project (Leistung, Spannung, Strom, Widerstand)
-gugus
+Basic Formelrad Project mit Calculator
+
+# Features
+> Leistung, 
+> Spannung, 
+> Strom, 
+> Widerstand,
+> Delete Button
