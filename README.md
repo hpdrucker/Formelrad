@@ -1,9 +1,9 @@
 # Formelrad
-Basic Formelrad Project mit Calculatord
+Basic Formelrad Project mit Calculator
 
 # Features
-> Leistung 
-> Spannung 
-> Strom 
-> Widerstand
-> Lösch-Button
+> Leistung, 
+> Spannung, 
+> Strom, 
+> Widerstand,
+> Delete Button
